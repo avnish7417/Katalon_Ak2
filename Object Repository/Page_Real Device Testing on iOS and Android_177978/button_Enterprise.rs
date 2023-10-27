@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Enterprise</name>
+   <tag></tag>
+   <elementGuidId>04c31d4a-5e29-468b-a20a-3adc29a15360</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/nav/div/div/div[2]/div/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fab62d6d-366d-400f-a7c4-efa9fb1f983f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop:block text-ltBlack-400 desktop:ml-0 desktop:mt-10 nav-link pt-10 pb-10 text-size-16 font-medium px-15 fromipad:px-10 block sm:inline-block dropdown-toggle menu-item focus:outline-none</value>
+      <webElementGuid>ff31ae96-1743-4357-a261-6e365208c468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enterprise </value>
+      <webElementGuid>91fc31d8-6ecc-4831-a087-3930ba21d5fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/nav[@class=&quot;container&quot;]/div[@class=&quot;px-2 desktop:py-15&quot;]/div[@class=&quot;flex -mx-2 items-center desktop:block&quot;]/div[@class=&quot;header__menu px-2 desktop:w-full&quot;]/div[@class=&quot;desktop:mt-10 desktop:text-left desktop:hidden&quot;]/div[@class=&quot;flex items-center desktop:block&quot;]/div[@class=&quot;w-7/12 desktop:w-full header__menu__items&quot;]/div[@class=&quot;inline-block dropdown desktop:block resource-dropdown&quot;]/button[@class=&quot;desktop:block text-ltBlack-400 desktop:ml-0 desktop:mt-10 nav-link pt-10 pb-10 text-size-16 font-medium px-15 fromipad:px-10 block sm:inline-block dropdown-toggle menu-item focus:outline-none&quot;]</value>
+      <webElementGuid>13983075-a08f-442f-8349-e84a50becfc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/nav/div/div/div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>b3c55d20-d125-4d05-9a28-2855b6a1dbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation tools'])[1]/following::button[1]</value>
+      <webElementGuid>b6d174da-1a8d-458c-bc44-ee6c4c6d0c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all 120+'])[1]/following::button[1]</value>
+      <webElementGuid>e5aa7301-5c3d-41a0-9b3f-6c7049ecc33a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Experience Testing'])[1]/preceding::button[1]</value>
+      <webElementGuid>afc11f65-b526-4da9-bacf-7fbd1d112411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Execution Environment'])[1]/preceding::button[1]</value>
+      <webElementGuid>848601f2-8a36-41b1-9e3d-c47059227439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enterprise']/parent::*</value>
+      <webElementGuid>542aef9e-20e6-4025-bed4-1555d0a7a22a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>ec542935-9982-4a6d-a79b-80702555b991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Enterprise ' or . = 'Enterprise ')]</value>
+      <webElementGuid>aa082c82-14cb-4473-b1d6-f3461d7cfcf5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

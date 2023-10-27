@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Certifications</name>
+   <tag></tag>
+   <elementGuidId>42f03a3c-0be6-4091-9ffe-d5d3552fc82d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/nav/div/div/div[2]/div/div/div/div[3]/div/div/div/div/div/div[2]/ul/li[5]/a/div[2]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>ab444f82-582d-4a8a-97b8-2f796f3da7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-size-18 font-medium text-ltBlack-50 tracking-normal</value>
+      <webElementGuid>4a31f358-88d1-4705-832c-3de7dad60962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certifications</value>
+      <webElementGuid>5d872714-4784-469c-851c-56ff388bb59f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/nav[@class=&quot;container&quot;]/div[@class=&quot;px-2 desktop:py-15&quot;]/div[@class=&quot;flex -mx-2 items-center desktop:block&quot;]/div[@class=&quot;header__menu px-2 desktop:w-full&quot;]/div[@class=&quot;desktop:mt-10 desktop:text-left desktop:hidden&quot;]/div[@class=&quot;flex items-center desktop:block&quot;]/div[@class=&quot;w-7/12 desktop:w-full header__menu__items&quot;]/div[@class=&quot;inline-block dropdown desktop:block resource-dropdown dropdown_menu&quot;]/div[@class=&quot;text-left dropdown-menu resource-dropdown-menu bg-white p-0 absolute top-auto left-0 rounded hasPointer desktop:static desktop:z-50&quot;]/div[@class=&quot;table__main&quot;]/div[@class=&quot;table w-full desktop:block&quot;]/div[@class=&quot;table-cell w-8/12 pb-20 desktop:w-full desktop:block&quot;]/div[@class=&quot;table w-full desktop:block&quot;]/div[@class=&quot;table-cell w-1/2 dropdowm-section desktop:w-full desktop:block&quot;]/ul[@class=&quot;header_inner header-icon&quot;]/li[5]/a[@class=&quot;flex&quot;]/div[@class=&quot;ml-26&quot;]/h3[@class=&quot;text-size-18 font-medium text-ltBlack-50 tracking-normal&quot;]</value>
+      <webElementGuid>a1ccea4f-1c2a-4bd9-8177-0ddc15982210</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/nav/div/div/div[2]/div/div/div/div[3]/div/div/div/div/div/div[2]/ul/li[5]/a/div[2]/h3</value>
+      <webElementGuid>ebd47c39-06f9-46ed-8d1c-b0b9359ab3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community &amp; Support'])[1]/following::h3[1]</value>
+      <webElementGuid>842d2661-d207-4ef9-8001-f10529d08c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/following::h3[2]</value>
+      <webElementGuid>f4b73336-6e52-4715-93dc-e165bca85ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write for Us'])[1]/preceding::h3[1]</value>
+      <webElementGuid>88c6787b-99a5-4441-aeba-145907c2a458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What’s New'])[1]/preceding::h3[2]</value>
+      <webElementGuid>cd667a04-311c-401e-b186-70cc5d7831f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Certifications']/parent::*</value>
+      <webElementGuid>436483bd-4fd3-434a-a04b-bd0e56360958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/ul/li[5]/a/div[2]/h3</value>
+      <webElementGuid>19d9344b-0373-4e22-a07d-07d1c6323192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Certifications' or . = 'Certifications')]</value>
+      <webElementGuid>89e33bea-3b81-4c98-8650-51d6267bccdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_149</name>
+   <tag></tag>
+   <elementGuidId>b7b30212-86d7-42a4-a805-e615c2ea31aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='price_product']/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>59c2ae6e-4c47-4974-beff-545acbe7aa15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xxll:text-size-48 xxl:text-size-46 xlm:text-size-44 text-size-42 font-bold mb-20 mt-6 text-black</value>
+      <webElementGuid>d9d69433-0c4f-4061-8e3d-cea8dab97bbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$149</value>
+      <webElementGuid>11ed54de-fe0d-4310-9e24-18a6b7cfe5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;right_side_products&quot;)/div[@id=&quot;each_product&quot;]/div[@id=&quot;product_header&quot;]/div[@id=&quot;price_product&quot;]/div[@class=&quot;flex items-center&quot;]/h3[@class=&quot;xxll:text-size-48 xxl:text-size-46 xlm:text-size-44 text-size-42 font-bold mb-20 mt-6 text-black&quot;]</value>
+      <webElementGuid>38e0e1b0-f1f7-466f-93fc-c4fe1edb0c29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='price_product']/div/h3</value>
+      <webElementGuid>039f255d-2c16-48ac-8f1b-414d6cf7458b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Native App Automation'])[2]/following::h3[1]</value>
+      <webElementGuid>4ae2528f-4ff0-414f-91d6-24ddfa9b9d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart UI'])[1]/following::h3[1]</value>
+      <webElementGuid>491101c4-caa3-45b6-bcdf-0cf83ec573c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/month'])[1]/preceding::h3[1]</value>
+      <webElementGuid>41861ab9-03a0-4862-85c4-78d7859a21c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$149']/parent::*</value>
+      <webElementGuid>a16085c0-9674-4bcb-a51c-f9671e97fd51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h3</value>
+      <webElementGuid>59a6919c-abe0-4018-a5ba-4eaa114a1c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '$149' or . = '$149')]</value>
+      <webElementGuid>2e025312-39f0-4044-8e9d-c5bf1221c444</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

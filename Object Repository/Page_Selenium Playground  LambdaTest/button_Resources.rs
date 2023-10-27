@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Resources</name>
+   <tag></tag>
+   <elementGuidId>ac4b127f-ea5d-4856-817f-4a642ebbbd9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/nav/div/div/div[2]/div/div/div/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ba7e6de9-447d-46fa-9dd8-f7c59086878f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop:block text-ltBlack-400 desktop:ml-0 desktop:mt-10 nav-link pt-10 pb-10 text-size-16 font-medium px-15 fromipad:px-10 block sm:inline-block dropdown-toggle menu-item focus:outline-none</value>
+      <webElementGuid>944966a8-111b-46df-84cd-33f8dccb03d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resources </value>
+      <webElementGuid>44b25e31-1fbd-4119-b88c-5b932796e44d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/nav[@class=&quot;container&quot;]/div[@class=&quot;px-2 desktop:py-15&quot;]/div[@class=&quot;flex -mx-2 items-center desktop:block&quot;]/div[@class=&quot;header__menu px-2 desktop:w-full&quot;]/div[@class=&quot;desktop:mt-10 desktop:text-left desktop:hidden&quot;]/div[@class=&quot;flex items-center desktop:block&quot;]/div[@class=&quot;w-7/12 desktop:w-full header__menu__items&quot;]/div[@class=&quot;inline-block dropdown desktop:block resource-dropdown&quot;]/button[@class=&quot;desktop:block text-ltBlack-400 desktop:ml-0 desktop:mt-10 nav-link pt-10 pb-10 text-size-16 font-medium px-15 fromipad:px-10 block sm:inline-block dropdown-toggle menu-item focus:outline-none&quot;]</value>
+      <webElementGuid>2ab0fbaf-75b1-493c-8b19-205b72c1ede3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/nav/div/div/div[2]/div/div/div/div[3]/button</value>
+      <webElementGuid>0775cfb9-7bf6-4783-adcf-a37195dc2aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Execution Environment'])[1]/following::button[1]</value>
+      <webElementGuid>73f960f2-90fb-4bfe-a370-1095c1c23002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Experience Testing'])[1]/following::button[1]</value>
+      <webElementGuid>d4d6bbb0-76e7-435b-bd29-0d379f8dedca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn'])[1]/preceding::button[1]</value>
+      <webElementGuid>13b6ab9e-6bdf-46c0-91a7-37bd6fbcb076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::button[1]</value>
+      <webElementGuid>9aae50d4-b2c7-4969-9729-5f8b8f1dc678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Resources']/parent::*</value>
+      <webElementGuid>1d1b79c6-5e85-4bb2-b6d8-798d6896a749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>20794de3-18a8-4063-b20a-d73a381f37fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Resources ' or . = 'Resources ')]</value>
+      <webElementGuid>3600d572-cc82-42a0-906d-b14497b515f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Automation Step by Step_yt-core-image--_7670ac</name>
+   <tag></tag>
+   <elementGuidId>04f14b21-c417-4406-8388-f0f5da227984</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='thumbnail']/yt-image/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0b150f91-314a-40d0-82b7-a9f8a96e7b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded</value>
+      <webElementGuid>9a257a15-b9b5-4d81-967d-3b5e9911622c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://i.ytimg.com/vi/mOAXEQevCAE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDFw6EpdzsA2-Gh4U04lc0ZR9RdDQ</value>
+      <webElementGuid>dc40c7d5-7165-4b7c-a65a-7fd4522fa08a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-manager&quot;)/ytd-browse[@class=&quot;style-scope ytd-page-manager&quot;]/ytd-two-column-browse-results-renderer[@class=&quot;style-scope ytd-browse grid grid-disabled&quot;]/div[@id=&quot;primary&quot;]/ytd-section-list-renderer[@class=&quot;style-scope ytd-two-column-browse-results-renderer&quot;]/div[@id=&quot;contents&quot;]/ytd-item-section-renderer[@class=&quot;style-scope ytd-section-list-renderer&quot;]/div[@id=&quot;contents&quot;]/ytd-playlist-video-list-renderer[@class=&quot;style-scope ytd-item-section-renderer&quot;]/div[@id=&quot;contents&quot;]/ytd-playlist-video-renderer[@class=&quot;style-scope ytd-playlist-video-list-renderer&quot;]/div[@id=&quot;content&quot;]/div[@id=&quot;container&quot;]/ytd-thumbnail[@id=&quot;thumbnail&quot;]/a[@id=&quot;thumbnail&quot;]/yt-image[@class=&quot;style-scope ytd-thumbnail&quot;]/img[@class=&quot;yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded&quot;]</value>
+      <webElementGuid>785c4015-f5f3-440e-8cd9-3117696f92ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='thumbnail']/yt-image/img</value>
+      <webElementGuid>b5bf2014-b4e9-4f71-8d7b-4c31d7658473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://i.ytimg.com/vi/mOAXEQevCAE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDFw6EpdzsA2-Gh4U04lc0ZR9RdDQ')]</value>
+      <webElementGuid>2dbf634d-b09f-4851-9d8c-f17c2b97cc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//yt-image/img</value>
+      <webElementGuid>32df703f-03d8-4359-aad7-8b5bdf77ab42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://i.ytimg.com/vi/mOAXEQevCAE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDFw6EpdzsA2-Gh4U04lc0ZR9RdDQ']</value>
+      <webElementGuid>8aa84dbf-10d7-479f-afb8-2fda72970df6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

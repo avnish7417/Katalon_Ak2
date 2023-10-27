@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Status Codes</name>
+   <tag></tag>
+   <elementGuidId>b3a3c5ac-c76b-475d-a646-3e85fb1340e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[2]/div/ul/li[35]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0c25be39-8574-4335-bcf7-2ba5c4c13c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.lambdatest.com/selenium-playground/status-code</value>
+      <webElementGuid>6f112207-7259-4ee0-a915-e093b67d3fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-black text-size-14 hover:text-lambda-900 leading-relaxed</value>
+      <webElementGuid>e3fb57a4-d1c4-4a06-abb4-1362582545bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Status Codes</value>
+      <webElementGuid>b8b75635-032d-4ddd-8ef8-5f1d3a912751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mb-50&quot;]/div[@class=&quot;container__selenium&quot;]/ul[@class=&quot;list-disc pl-10 pb-30 grid grid-cols-4 w-full gap-10 mt-30 smtablet:grid-cols-1&quot;]/li[@class=&quot;pt-10&quot;]/a[@class=&quot;text-black text-size-14 hover:text-lambda-900 leading-relaxed&quot;]</value>
+      <webElementGuid>03619e0f-3c36-4916-bfc5-7536cdf159cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[2]/div/ul/li[35]/a</value>
+      <webElementGuid>1b73fff5-d399-4719-a867-5a497066ca93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Status Codes')]</value>
+      <webElementGuid>e553f152-bb13-4572-8715-22a40da17c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simple Form Demo'])[1]/following::a[1]</value>
+      <webElementGuid>9c703bb0-0d1f-44b5-ba94-6b9e2891fdb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shadow DOM'])[1]/following::a[2]</value>
+      <webElementGuid>0c9843a1-ee19-43ad-ad31-1a5f9393e146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table Data Download'])[1]/preceding::a[1]</value>
+      <webElementGuid>b5bbf6d5-a334-46db-961a-5b8aa6f4a12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table Data Search'])[1]/preceding::a[2]</value>
+      <webElementGuid>f5309639-0199-463d-8caf-c554fa51ac62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Status Codes']/parent::*</value>
+      <webElementGuid>1697b18b-e31e-4ff4-8aec-b004f88e90cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.lambdatest.com/selenium-playground/status-code')]</value>
+      <webElementGuid>3cc832b1-2b29-4d1e-ae54-cdffe8fafd34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[35]/a</value>
+      <webElementGuid>ada78116-73af-418b-8f69-2f9c87d83bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.lambdatest.com/selenium-playground/status-code' and (text() = ' Status Codes' or . = ' Status Codes')]</value>
+      <webElementGuid>86a618d9-a2dd-46d0-98cd-1ac2026be6c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

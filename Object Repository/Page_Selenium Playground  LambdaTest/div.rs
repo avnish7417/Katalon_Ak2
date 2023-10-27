@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>03b54d02-5fb9-4b56-8511-1d1e11291c2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[2]/div/div/div[4]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-30 > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17ca08b0-e13b-46b0-b7b7-5b6589aab503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;my-50 automationbar smtablet:px-20&quot;]/div[1]/div[@class=&quot;w-600 m-auto smtablet:w-full&quot;]/div[@class=&quot;form-bottom&quot;]/div[@class=&quot;sliderBar&quot;]/div[@class=&quot;disablebar&quot;]/div[@class=&quot;mb-30&quot;]/div[1]</value>
+      <webElementGuid>974a07a9-36ca-4c26-aba7-1c5b289ebcfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[2]/div/div/div[4]/div[2]/div/div/div</value>
+      <webElementGuid>cc68f205-eb8e-460f-98c8-915a0038f956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How would you rate the recent experience of your eCommerce purchase?'])[1]/following::div[3]</value>
+      <webElementGuid>a9aeb3df-acf1-4ee3-a8d8-74589c8a49fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have made an eCommerce purchase in the last 1 year'])[1]/following::div[4]</value>
+      <webElementGuid>03cd4c63-9536-41ad-86e9-0a56db1b85b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please share your feedback here'])[1]/preceding::div[27]</value>
+      <webElementGuid>9f49d9c8-ebfe-4016-b49a-d572bea556c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div</value>
+      <webElementGuid>4f1b679c-58cc-41bd-8a67-d00327879de1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

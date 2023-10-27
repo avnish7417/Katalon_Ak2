@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Drag  Drop Sliders</name>
+   <tag></tag>
+   <elementGuidId>7faa8188-7c5a-4ac8-bab7-782ce19a534f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[2]/div/ul/li[13]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d7a42fe8-e83e-4493-a978-7424c3a141d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.lambdatest.com/selenium-playground/drag-drop-range-sliders-demo</value>
+      <webElementGuid>f8066feb-48d1-44a1-9ddf-d520bac42837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-black text-size-14 hover:text-lambda-900 leading-relaxed</value>
+      <webElementGuid>b3e43d80-1b58-44c4-a5bd-d88cd00a395a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag &amp; Drop Sliders</value>
+      <webElementGuid>36300748-b8c6-4cb3-a547-863f697dbf92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mb-50&quot;]/div[@class=&quot;container__selenium&quot;]/ul[@class=&quot;list-disc pl-10 pb-30 grid grid-cols-4 w-full gap-10 mt-30 smtablet:grid-cols-1&quot;]/li[@class=&quot;pt-10&quot;]/a[@class=&quot;text-black text-size-14 hover:text-lambda-900 leading-relaxed&quot;]</value>
+      <webElementGuid>97760f16-e31a-44aa-9716-3af675219d2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[2]/div/ul/li[13]/a</value>
+      <webElementGuid>b844900f-ea20-4622-a2ae-0ce6a9723d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Drag &amp; Drop Sliders')]</value>
+      <webElementGuid>b68441dc-39a0-44cf-b012-e78d28523df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download File Demo'])[1]/following::a[1]</value>
+      <webElementGuid>71c789fb-acde-465c-90cd-3c2068710a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data List Filter'])[1]/following::a[2]</value>
+      <webElementGuid>8d4f0944-7d6c-42b1-a4f1-8ecd2c727009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag and Drop'])[1]/preceding::a[1]</value>
+      <webElementGuid>424e51d0-e9f9-4733-97d2-dbbd2e22ff8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamic Data Loading'])[1]/preceding::a[2]</value>
+      <webElementGuid>d1e9fbbf-0457-4a59-a635-0a21dd6ddaf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Drag &amp; Drop Sliders']/parent::*</value>
+      <webElementGuid>4fb46e59-53a7-425b-9144-3d76a0db8c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.lambdatest.com/selenium-playground/drag-drop-range-sliders-demo')]</value>
+      <webElementGuid>058a120f-d54f-4839-8347-a211cf3446e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/a</value>
+      <webElementGuid>eac400ad-45db-4a02-86b8-10e150942d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.lambdatest.com/selenium-playground/drag-drop-range-sliders-demo' and (text() = 'Drag &amp; Drop Sliders' or . = 'Drag &amp; Drop Sliders')]</value>
+      <webElementGuid>22dbc898-eb22-4943-99f9-e9e2223d9ab2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

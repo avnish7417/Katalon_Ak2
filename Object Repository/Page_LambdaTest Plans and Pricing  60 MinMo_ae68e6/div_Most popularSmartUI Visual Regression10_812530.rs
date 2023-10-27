@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Most popularSmartUI Visual Regression10_812530</name>
+   <tag></tag>
+   <elementGuidId>71f4009c-412b-4867-8739-12703917c584</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='each_product'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec03d566-e646-42be-9a3d-9c4de8520903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>each_product</value>
+      <webElementGuid>e5ea87a7-a9bd-467a-a66f-0c1a021690d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>smtablet:ml-10 ml-20 each_drop pb-25 justify-between mb-40 xm:w-4/12 w-5/12 xll:mb-0 mb-50 desktop:w-full pricing_bestval relative</value>
+      <webElementGuid>0a40b2e4-16d1-47c1-9de4-75724373b150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Most popularSmartUI Visual Regression$109/month 15000 Screenshots per month25000 Screenshots per month100000 Screenshots per month200000 Screenshots per month> 200000+ Screenshots per monthWhat is Parallel Tests?Parallel testing is a powerful technique that allows you to execute multiple tests simultaneously. This helps to reduce test execution time significantly.Learn moreChoose Plan Includes unlimited access to: 1 year of Build HistoryAnalyze 365 days historic data on test builds Advanced Comparison optionsAdvance test setting options to help you find visual differences Build SequencingInstead of proceeding with an outdated build, it is preferable to enable a build to pause until its optimal foundation build is completed. Advanced Collaboration &amp; Sharing optionsAdvance test setting options to help you find visual differences Test local or private hosted pageVisual testing on dev, stage or privately hosted environments Support for multiple FrameworkSupports Cypress, Selenium and Storybook Integrates with all popular CI/CD platformsIntegrate with CircleCI, GitLab, Travis and more CI/CD tools 3rd party app integration with GitHub AppVisual feedback on GitHub dashboard strengthens code checks with 'Approved' or 'Failed' statuses NPM packageRun tests directly with CLI using NPM package</value>
+      <webElementGuid>90b37e2b-5012-4d9a-96ae-55f5b7dea056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;right_side_products&quot;)/div[@id=&quot;each_product&quot;]</value>
+      <webElementGuid>82596b6b-0919-46b0-81e4-faa5b3c7cf4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='each_product'])[2]</value>
+      <webElementGuid>cf4ff872-d2f6-4ee7-a25d-619c4b96921c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='right_side_products']/div[2]</value>
+      <webElementGuid>649af8f2-fa5d-416f-aac3-fa88993c6204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anti-aliasing Algorithm to eliminate false positives'])[1]/following::div[2]</value>
+      <webElementGuid>940d663e-6ca3-47c4-98ed-af0f3b89cc12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsive Visual Testing'])[1]/following::div[7]</value>
+      <webElementGuid>296d4493-147e-4462-af39-5826657d3828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>f154229e-8601-4a67-a66b-13a496f02d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'each_product' and (text() = concat(&quot;Most popularSmartUI Visual Regression$109/month 15000 Screenshots per month25000 Screenshots per month100000 Screenshots per month200000 Screenshots per month> 200000+ Screenshots per monthWhat is Parallel Tests?Parallel testing is a powerful technique that allows you to execute multiple tests simultaneously. This helps to reduce test execution time significantly.Learn moreChoose Plan Includes unlimited access to: 1 year of Build HistoryAnalyze 365 days historic data on test builds Advanced Comparison optionsAdvance test setting options to help you find visual differences Build SequencingInstead of proceeding with an outdated build, it is preferable to enable a build to pause until its optimal foundation build is completed. Advanced Collaboration &amp; Sharing optionsAdvance test setting options to help you find visual differences Test local or private hosted pageVisual testing on dev, stage or privately hosted environments Support for multiple FrameworkSupports Cypress, Selenium and Storybook Integrates with all popular CI/CD platformsIntegrate with CircleCI, GitLab, Travis and more CI/CD tools 3rd party app integration with GitHub AppVisual feedback on GitHub dashboard strengthens code checks with &quot; , &quot;'&quot; , &quot;Approved&quot; , &quot;'&quot; , &quot; or &quot; , &quot;'&quot; , &quot;Failed&quot; , &quot;'&quot; , &quot; statuses NPM packageRun tests directly with CLI using NPM package&quot;) or . = concat(&quot;Most popularSmartUI Visual Regression$109/month 15000 Screenshots per month25000 Screenshots per month100000 Screenshots per month200000 Screenshots per month> 200000+ Screenshots per monthWhat is Parallel Tests?Parallel testing is a powerful technique that allows you to execute multiple tests simultaneously. This helps to reduce test execution time significantly.Learn moreChoose Plan Includes unlimited access to: 1 year of Build HistoryAnalyze 365 days historic data on test builds Advanced Comparison optionsAdvance test setting options to help you find visual differences Build SequencingInstead of proceeding with an outdated build, it is preferable to enable a build to pause until its optimal foundation build is completed. Advanced Collaboration &amp; Sharing optionsAdvance test setting options to help you find visual differences Test local or private hosted pageVisual testing on dev, stage or privately hosted environments Support for multiple FrameworkSupports Cypress, Selenium and Storybook Integrates with all popular CI/CD platformsIntegrate with CircleCI, GitLab, Travis and more CI/CD tools 3rd party app integration with GitHub AppVisual feedback on GitHub dashboard strengthens code checks with &quot; , &quot;'&quot; , &quot;Approved&quot; , &quot;'&quot; , &quot; or &quot; , &quot;'&quot; , &quot;Failed&quot; , &quot;'&quot; , &quot; statuses NPM packageRun tests directly with CLI using NPM package&quot;))]</value>
+      <webElementGuid>8812a342-ab3b-4cbf-99f4-5683c539676f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
